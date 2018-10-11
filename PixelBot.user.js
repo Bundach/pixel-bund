@@ -19,7 +19,7 @@ function PixelBot() {
 
     PixelBot.url = {
         script: 'https://raw.githack.com/Bundach/pixel-bund/master/PixelBot.user.js',
-        image: 'http://shampinion.cf/controlImage.png'
+        image: 'https://i.imgur.com/OVj7Mju.png'
     };
 
     PixelBot.urlGen = {
