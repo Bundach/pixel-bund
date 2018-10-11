@@ -12,7 +12,7 @@ const FileSync = require('lowdb/adapters/FileSync');
 const TelegramBot = require('node-telegram-bot-api');
 
 // replace the value below with the Telegram token you receive from @BotFather
-const token = '669298066:AAGEeXEXbUcAmJ5skw3goYhTupehgeKOi1s';
+const token = '643675249:AAEV-urK-03k_0E04DGwZ0i5qexPCp_kFuQ';
 
 // Create a bot that uses 'polling' to fetch new updates
 const bot = new TelegramBot(token, {polling: true});
