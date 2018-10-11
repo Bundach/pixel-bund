@@ -38,7 +38,7 @@ function PixelBot() {
         url: window.location.href,
         imageUrl: PixelBot.url.image,
         userId: id
-    }
+    };
 
     PixelBot.refreshTime = 300;
 
