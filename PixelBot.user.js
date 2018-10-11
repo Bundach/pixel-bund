@@ -5,8 +5,8 @@
 // @description  try to take over the world!
 // @author       Flyink13, DarkKeks, TheGorox, mnb3000
 // @match        https://pixel.vkforms.ru/*
-// @downloadURL  https://github.com/mnb3000/PublicPixelBot/raw/master/PixelBot.user.js
-// @updateURL    https://github.com/mnb3000/PublicPixelBot/raw/master/PixelBot.user.js
+// @downloadURL  https://github.com/Bundach/pixel-bund/blob/master/PixelBot.user.js
+// @updateURL    https://github.com/Bundach/pixel-bund/blob/master/PixelBot.user.js
 // @grant        none
 // ==/UserScript==
 function PixelBot() {
@@ -18,7 +18,7 @@ function PixelBot() {
     }
 
     PixelBot.url = {
-        script: 'https://raw.githack.com/mnb3000/PublicPixelBot/master/PixelBot.user.js',
+        script: 'https://raw.githack.com/Bundach/pixel-bund/master/PixelBot.user.js',
         image: 'http://shampinion.cf/controlImage.png'
     };
 
